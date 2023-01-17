@@ -19,5 +19,5 @@ L'énoncé est vague sur certains points, faites preuve d'imagination. Il n'y a 
 Utilisez la commande pour initialiser le serveur Web.
 
 ```bash
-docker-compose up -d --build
+docker-compose up --build
 ```
